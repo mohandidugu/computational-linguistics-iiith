@@ -1,0 +1,13 @@
+The introduction contains about the experiment intrduction.When we click on the tag "COMPUTATIONAL LINGUISTICS LAB " it redirects to the "http://cl-iiith.vlabs.ac.in/index.html". Where at the bottom it consists of a link which gives the idea more about the link when clicked on it redirects to "https://ltrc.iiit.ac.in/".
+The navigator consists of "INTRODUCTION THEORY OBJECTIVE EXPERIMENT QUIZZES PROCEDURE " which redirects to their coressponding file ie.,"INTRODUCTION.HTML THEORY.HTML OBJECTIVE.HTML EXPERIMENT.HTML QUIZZES.HTML PROCEDURE.HTML" when clicked.
+On the top right corner the logo of the "IIITH" is present. 
+Now on clicking on the "Experiment" tag it shows a selector which say to "select the language". On selecting the language it now displays the words in the form of button , The languages avalible are "English & Hindi".The process of doing the experiment is same for both the language below is the one example on selecting english language. 
+Now looking into the experiment it consists of different words which must be form a meaningful sentence "On click of the each word the must be disapper from the group of words which still need to be selected and must be present in a new line which consists of the words which are selected ."
+Now "After selecting a word from the group of words if one word is selected when it appears on new line bottom of it must contain a button displaying as 'Reform the sentence' when clicked on it goes back to initial states ie., select the words to display the sentence "
+After selecting all the words i.e, on click of all the words now bottom of the "Reform the sentence button there must be another button which should check whether the sentence formed is correct or on not when clicked on it the button name is 'Check the correctness of this sentence'  ON clicking  it checked or checks the weather the sentence formed is in a meaning full order or not "
+If the sentence is not in a meaningful order then it display a button named'Get the correct sentence' which gives all the correct sentences which are in meaningful and grametically order.
+Till now we have seen about the sentences which are correct in english but comming to hindi there might be many sentences which are in meaningful order in hindi.
+The button which are missed is on clicking of logo of the IIITH it must redirect to the home page of the IIITH.
+It must also consist of the Search button .
+In the footer it must contains a quarey mail to send the quaries.
+The "Experiment.html" contains of the list of Experiment which are avalible. On click of it redirects to the correspnding Experiment
