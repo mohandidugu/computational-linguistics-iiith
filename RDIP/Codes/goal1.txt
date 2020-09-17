@@ -10,4 +10,4 @@ Till now we have seen about the sentences which are correct in english but commi
 The button which are missed is on clicking of logo of the IIITH it must redirect to the home page of the IIITH.
 It must also consist of the Search button .
 In the footer it must contains a quarey mail to send the quaries.
-The "Experiment.html" contains of the list of Experiment which are avalible. On click of it redirects to the correspnding Experiment
+The "Experiment.html" contains of the list of Experiment which are avalible. On click of it redirects to the correspnding Experiment.
